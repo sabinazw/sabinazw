@@ -1,6 +1,6 @@
 # Hello, I'm Sabina! 👋
 
-![Banner Image](URL_TO_YOUR_BANNER_IMAGE)
+![Banner Image](https://github.com/sabinazw/sabinazw/blob/main/banner.jpg)
 
 Welcome to my GitHub profile! I'm a dynamic and detail-oriented Full Charge Bookkeeper transitioning into the tech industry as a software developer. With an MSc in Mathematics and extensive experience in financial management, I'm currently enhancing my software engineering skills through a rigorous Bootcamp. Proficient in Python, I'm passionate about applying my analytical skills and accounting expertise to innovative tech projects.
 
