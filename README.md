@@ -21,6 +21,16 @@ Welcome to my GitHub profile! I'm a dynamic and detail-oriented Full Charge Book
 - **Technologies Used**: Python
 - **[View Project](https://github.com/sabinazw/Bootcamp-projects/blob/main/finance_calculators.py)**
 
+### Task Manager – Python
+- **Description**: This Task Manager project is designed to help users efficiently manage tasks within a team or organization. It allows for task assignment, editing, viewing, and report generation, offering both administrative and user-level functionalities. The system supports task operations such as adding new tasks, viewing all or specific user tasks, editing tasks, marking tasks as completed, and generating comprehensive reports for tasks and user overviews.
+- **Technologies Used**: Python
+- **[View Project](https://github.com/sabinazw/Bootcamp-projects/blob/main/finance_calculators.py)**
+
+### Other Projects – Python
+- **Description**: For more projects developed during my Software Engineering Bootcamp please click 'View Other Projects' below.
+- **Technologies Used**: Python
+- **[View Other Projects](https://github.com/sabinazw/Bootcamp-projects/blob/main/finance_calculators.py)**
+
 ## Skills and Experience
 
 * 💻 **Programming Languages**: Python (Junior Level), HTML (Trainee Level), SQL (Trainee Level)
