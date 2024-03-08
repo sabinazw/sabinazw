@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a dynamic and detail-oriented Full Charge Book
 ### Other Projects – Python
 - **Description**: For more projects developed during my Software Engineering Bootcamp please click 'View Other Projects' below.
 - **Technologies Used**: Python
-- **[View Other Projects](https://github.com/sabinazw/Bootcamp-projects/blob/main/finance_calculators.py)**
+- **[View Other Projects](https://github.com/sabinazw/Bootcamp-projects)**
 
 ## Skills and Experience
 
