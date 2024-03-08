@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a dynamic and detail-oriented Full Charge Book
 ### Finance Calculator – Python
 - **Description**: Developed a versatile financial calculator to assist users in making informed financial decisions, featuring an Investment Value Calculator and Monthly Bond Repayment Calculator. Designed with user-friendly interfaces, this project leverages Python's flexibility and efficiency.
 - **Technologies Used**: Python
-- **[View Project](LINK_TO_PROJECT)**
+- **[View Project](https://github.com/sabinazw/Bootcamp-projects/blob/main/finance_calculators.py)**
 
 ## Skills and Experience
 
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a dynamic and detail-oriented Full Charge Book
 
 ## Let's Connect!
 
-- **LinkedIn**: [sabina.z](https://www.linkedin.com/in/sabina-z-261656105/)
+- **LinkedIn**: [sabinazw](https://www.linkedin.com/in/sabina-z-261656105/)
 
 Thank you for visiting my profile. I'm excited about the opportunity to contribute to your projects and learn from the community!
 
