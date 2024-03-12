@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a dynamic and detail-oriented Full Charge Book
 - 🌱 I'm learning more about Python, HTML, SQL, and other technologies crucial for web and data-driven applications.
 - 👯 I'm looking to collaborate on projects that leverage my unique blend of financial expertise and programming skills.
 - 💬 Ask me about financial accounting, Python programming, and transitioning into tech from a different field.
-- 📫 How to reach me: [Your Professional Email]
+- 📫 How to reach me: [sabinazw](https://www.linkedin.com/in/sabina-z-261656105/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I've successfully migrated company data to NAS, enhancing data storage and organization.
 
